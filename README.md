@@ -1,1 +1,1 @@
-# 100 Days of Pythin
+# 100 Days of Python
